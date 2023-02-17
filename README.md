@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmadhetahpras&label=Profile%20views&color=0e75b6&style=flat" alt="akhmadhetahpras" /> </p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77179142/177455261-f93a2916-3596-4a53-ab86-2ba2d4df9478.gif">
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently part on **Bangkit Academy as Mobile Developer Student**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 🤝 I’m looking for help with [E-Shop](https://github.com/AkhmadhetaHPras/malefashion)
 
