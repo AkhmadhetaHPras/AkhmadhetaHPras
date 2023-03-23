@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkhmadhetaHPras](https://github.com/AkhmadhetaHPras)
 
-- 💬 Ask me about **JAVA, PHP/Laravel, and JavaScript**
+- 💬 Ask me about **JAVA, PHP/Laravel, JavaScript, Dart, and Kotlin**
 
 - 📫 How to reach me **akhmadhetahafid@gmail.com**
 
