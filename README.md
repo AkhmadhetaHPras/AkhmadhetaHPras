@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/akhmadhetahpras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akhmadhetahpras" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafid prasetyawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafid prasetyawan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhmadhetahafidp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafid prasetyawan" height="30" width="40" /></a>
 <a href="https://instagram.com/hafidpras_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafidpras_" height="30" width="40" /></a>
 <a href="https://dribbble.com/hafid097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hafid097" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akhmadheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhmadheta" height="30" width="40" /></a>
