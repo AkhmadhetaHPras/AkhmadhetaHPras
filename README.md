@@ -38,5 +38,5 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=akhmadhetahpras&theme=flag-india&show_icons=true&locale=en" alt="akhmadhetahpras" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhmadhetahpras&theme=flag-india" alt="akhmadhetahpras" />
 </p>
-<p align="center"><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhmadhetaHPras&custom_title=Akhmadheta's%20Contribution%20Graph&theme=minimal&bg_color=ffffff&area=true&color=250E62&point=ff8f1c&line=509E2F&area_color=ff8f1c" alt="akhmadhetahprasSS" /></p>
+<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkhmadhetaHPras&custom_title=Akhmadheta's%20Contribution%20Graph&theme=minimal&bg_color=ffffff&area=true&color=250E62&point=ff8f1c&line=509E2F&area_color=ff8f1c" alt="akhmadhetahprasSS" /></p>
 
