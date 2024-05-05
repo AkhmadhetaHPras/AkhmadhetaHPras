@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with [E-Shop](https://github.com/AkhmadhetaHPras/malefashion)
+- 🤝 I’m looking for help with [TDD Flutter](https://github.com/AkhmadhetaHPras/submission_media_player)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkhmadhetaHPras](https://github.com/AkhmadhetaHPras)
 
